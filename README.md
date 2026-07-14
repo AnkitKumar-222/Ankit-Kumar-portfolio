@@ -2,7 +2,7 @@
 
 Personal portfolio website for **Ankit Kumar**, a BCA graduate and full-stack developer from Delhi. Built as a single-page, single-file site — no build tools, no dependencies, just HTML/CSS/JS.
 
-🔗 **Live site:**_npx plugins add vercel/vercel-plugin_
+🔗 **Live site:** _https://vercel.com/ankit-kumar-s-projects1/ankit-kumar-portfolio_
 
 ## Overview
 
