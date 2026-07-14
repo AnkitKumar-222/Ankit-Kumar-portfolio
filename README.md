@@ -2,7 +2,9 @@
 
 Personal portfolio website for **Ankit Kumar**, a BCA graduate and full-stack developer from Delhi. Built as a single-page, single-file site — no build tools, no dependencies, just HTML/CSS/JS.
 
-🔗 **Live site:** _https://vercel.com/ankit-kumar-s-projects1/ankit-kumar-portfolio_
+🔗 **Live site:** https://ankit-kumar-portfolio-kappa.vercel.app
+
+![Portfolio preview](./screenshots/portfolio-preview.png)
 
 ## Overview
 
@@ -61,8 +63,10 @@ For live-reload while editing, use the VS Code "Live Server" extension.
 
 ```
 Ankit-Kumar-portfolio/
-├── index.html   # entire site — structure, styles, and scripts
-└── README.md
+├── index.html               # entire site — structure, styles, and scripts
+├── README.md
+└── screenshots/
+    └── portfolio-preview.png
 ```
 
 ## Author
