@@ -4,7 +4,7 @@ Personal portfolio website for **Ankit Kumar**, a BCA graduate and full-stack de
 
 🔗 **Live site:** https://ankit-kumar-portfolio-kappa.vercel.app
 
-![Portfolio preview]("https://github.com/user-attachments/assets/eec85140-591c-4af1-9083-b9fff4901b5a")
+![Portfolio preview](https://github.com/user-attachments/assets/eec85140-591c-4af1-9083-b9fff4901b5a)
 
 ## Overview
 
